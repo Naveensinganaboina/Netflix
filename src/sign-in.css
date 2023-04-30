@@ -1,0 +1,8 @@
+#sign-in{
+    background-image: url(../public/images/netflix-money.jpg);
+    height: 750px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
